@@ -1,3 +1,5 @@
+//This program was made with the assistance of AI
+
 #include <iostream>
 #include <vector>
 
